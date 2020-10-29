@@ -9,7 +9,7 @@ import kotlin.math.abs
 class MainActivity : AppCompatActivity() {
 
     //default value
-   private var  initialValue=1
+   private var  initialValue=0
 
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
